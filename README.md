@@ -19,8 +19,7 @@ A cross-platform voice-enabled retail app with product search, cart, checkout, o
 - /addtocart <product_name> — Add product to cart by name
 - /checkout — Place order (saved to Supabase)
 - /order <order_no> — Track order status
-- /offers — Personalized offers based on order history
-- /categorize <product_name> — Auto-categorize product
+- /categorize <product_name> — Auto-categorize product 
 - Product recommendations on add to cart
 
 ## Setup Instructions
@@ -67,7 +66,12 @@ node bot.js
 - Extend backend for payment, inventory, etc.
 
 ## Screenshots/Demo
-- [Add screenshots or screen recordings here]
+### 1. Dashboard
+![Dashboard](Screenshot%202025-09-16%20135138.png)
+### 2. Cart
+![Cart](Screenshot%202025-09-16%20135214.png)
+### 3. Order Tracking Chat Bot
+![Order Tracking Chat Bot](Screenshot%202025-09-16%20135056.png)
 
 ---
 Built with ❤️ using React Native, Expo, Supabase, and Telegraf.
