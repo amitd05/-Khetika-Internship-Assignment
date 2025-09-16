@@ -19,8 +19,7 @@ A cross-platform voice-enabled retail app with product search, cart, checkout, o
 - /addtocart <product_name> — Add product to cart by name
 - /checkout — Place order (saved to Supabase)
 - /order <order_no> — Track order status
-- /offers — Personalized offers based on order history
-- /categorize <product_name> — Auto-categorize product
+- /categorize <product_name> — Auto-categorize product 
 - Product recommendations on add to cart
 
 ## Setup Instructions
