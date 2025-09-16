@@ -67,7 +67,7 @@ node bot.js
 - Extend backend for payment, inventory, etc.
 
 ## Screenshots/Demo
-- [Add screenshots or screen recordings here]
+![Dashboard]_(Screenshot 2025-09-16 135056.png)
 
 ---
 Built with ❤️ using React Native, Expo, Supabase, and Telegraf.
