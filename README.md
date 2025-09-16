@@ -67,7 +67,12 @@ node bot.js
 - Extend backend for payment, inventory, etc.
 
 ## Screenshots/Demo
-![Dashboard]_(Screenshot 2025-09-16 135056.png)
+### 1. Dashboard
+![Dashboard](Screenshot%202025-09-16%20135138.png)
+### 2. Cart
+![Cart](Screenshot%202025-09-16%20135214.png)
+### 3. Order Tracking Chat Bot
+![Order Tracking Chat Bot](Screenshot%202025-09-16%20135056.png)
 
 ---
 Built with ❤️ using React Native, Expo, Supabase, and Telegraf.
